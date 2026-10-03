@@ -43,7 +43,7 @@ This repository therefore contains the project documentation, rendered results a
 * Explicit ambient occlusion through visibility queries
 * Comparison between manually applied AO and the occlusion effects naturally produced by global illumination
 
-## Tone Mapping
+**Tone Mapping**
 * ACES-inspired tone mapping
 * Luminance-based processing
 * Gamma correction
