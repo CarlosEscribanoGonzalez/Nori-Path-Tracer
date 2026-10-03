@@ -1,6 +1,6 @@
 ## Overview
 CPU path tracer developed in C++ on top of the Nori educational rendering framework, implementing and studying Monte Carlo techniques for physically based rendering and global illumination.
-The project was developed incrementally, from sampling and direct lighting to a full path tracer with next-event estimation, multiple importance sampling and microfacet materials.
+The project was developed incrementally, from sampling and direct lighting to a full path tracer with next event estimation, multiple importance sampling and microfacet materials.
 
 ## Disclaimer
 The source code is not included in this repository because the project was developed on top of the Nori framework and is subject to its licensing and distribution restrictions.
