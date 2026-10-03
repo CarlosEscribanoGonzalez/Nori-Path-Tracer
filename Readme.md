@@ -25,12 +25,6 @@ This repository therefore contains the project documentation, rendered results a
   <img width="673" height="300" alt="matvslightsampling" src="https://github.com/user-attachments/assets/30f328a7-446c-49ad-b8bb-08723f9e50b1" />
 </p>
 
-## Multiple Importance Sampling
-* Multiple Importance Sampling (MIS) combining material and light sampling
-* Balance, power and maximum heuristics
-* Comparison of sampling strategies and their effect on estimator variance
-* Improved convergence for scenes containing both diffuse and specular materials
-
 ## Path Tracing
 * Recursive path tracer for global illumination
 * Indirect illumination through multiple light bounces
@@ -41,13 +35,24 @@ This repository therefore contains the project documentation, rendered results a
   <img width="678" height="300" alt="path" src="https://github.com/user-attachments/assets/609b491c-8e9c-43ae-99c7-d21a21f9b260" />
 </p>
 
+## Multiple Importance Sampling
+* Multiple Importance Sampling (MIS) combining material and light sampling
+* Balance, power and maximum heuristics
+* Comparison of sampling strategies and their effect on estimator variance
+* Improved convergence for scenes containing both diffuse and specular materials
+<p align = "center">
+  <img width="683" height="300" alt="MIS" src="https://github.com/user-attachments/assets/43abe61a-08d7-4e49-b09e-f7e9a16c4378" />
+</p>
+
 ## Microfacet BRDF
 * Cook–Torrance microfacet BRDF
 * Combined diffuse and specular response
 * Importance sampling of diffuse and specular lobes
+<p align = "center">
+  <img width="347" height="300" alt="BRDF" src="https://github.com/user-attachments/assets/4351c582-ad22-44b1-abf3-8c0c6b18dc93" />
+</p>
 
 ## Additional Techniques
-
 **Ambient Occlusion**
 * Explicit ambient occlusion through visibility queries
 * Comparison between manually applied AO and the occlusion effects naturally produced by global illumination
