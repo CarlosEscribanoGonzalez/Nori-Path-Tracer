@@ -12,12 +12,18 @@ This repository therefore contains the project documentation, rendered results a
 * Cosine-weighted sampling using both Malley's method and inverse transform sampling
 * Statistical validation of sampling distributions using null hypothesis tests
 * Area-weighted sampling of mesh triangles
+<p align = "center">
+  <img width="650" height="300" alt="cosinesampling" src="https://github.com/user-attachments/assets/00e44e08-d10a-40b7-81fc-63314bed9328" />
+</p>
 
 ## Direct Lighting
 * Material sampling
 * Light sampling with visibility testing through shadow rays
 * Conversion from area-based PDFs to solid-angle PDFs
 * Luminance and area-weighted emitter selection to reduce estimator variance
+<p align = "center">
+  <img width="673" height="300" alt="matvslightsampling" src="https://github.com/user-attachments/assets/30f328a7-446c-49ad-b8bb-08723f9e50b1" />
+</p>
 
 ## Multiple Importance Sampling
 * Multiple Importance Sampling (MIS) combining material and light sampling
@@ -31,6 +37,9 @@ This repository therefore contains the project documentation, rendered results a
 * Next Event Estimation (NEE) for direct lighting at every bounce
 * Fixed and throughput-based adaptive Russian roulette
 * Support for perfect mirror materials
+<p align = "center">
+  <img width="678" height="300" alt="path" src="https://github.com/user-attachments/assets/609b491c-8e9c-43ae-99c7-d21a21f9b260" />
+</p>
 
 ## Microfacet BRDF
 * Cook–Torrance microfacet BRDF
